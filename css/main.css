@@ -36,7 +36,7 @@ body {
 #header_in .nav ul {
     height: 100px;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     align-items: center;
 }
 
@@ -78,7 +78,7 @@ body {
     position: relative;
     left: 50px;
     width: 115px;
-    height: 40px;
+    height: 35px;
     z-index: 999;
 }
 
